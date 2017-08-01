@@ -1,0 +1,2 @@
+# wc
+Wilson Cowan Simulations
